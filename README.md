@@ -422,3 +422,4 @@ Connect your own AI API keys to unlock all interactive features. Supports Claude
 <sub>Internal — 向内 · Infernal — 向深处 · 两个方向都通往<b>边界之外</b></sub><br>
 <sub>© 2025–2026 Sui · Made with ♡ for the ones who stay</sub>
 </div>
+<!-- trigger pages rebuild -->
